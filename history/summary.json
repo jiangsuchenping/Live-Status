@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1777,
-    "timeDay": 1777,
-    "timeWeek": 1777,
-    "timeMonth": 1777,
-    "timeYear": 1777,
+    "time": 1822,
+    "timeDay": 1822,
+    "timeWeek": 1822,
+    "timeMonth": 1822,
+    "timeYear": 1822,
     "dailyMinutesDown": {}
   },
   {
@@ -28,16 +28,16 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1573,
-    "timeDay": 1573,
-    "timeWeek": 1573,
-    "timeMonth": 1573,
-    "timeYear": 1573,
+    "time": 1566,
+    "timeDay": 1566,
+    "timeWeek": 1566,
+    "timeMonth": 1566,
+    "timeYear": 1566,
     "dailyMinutesDown": {}
   },
   {
     "name": "dai-jian",
-    "url": "tcp://113.108.63.190:25565",
+    "url": "http://113.108.63.190:25565",
     "icon": "https://icons.duckduckgo.com/ip3/113.108.63.190.ico",
     "slug": "dai-jian",
     "status": "down",
@@ -46,13 +46,13 @@
     "uptimeWeek": "0.01%",
     "uptimeMonth": "0.01%",
     "uptimeYear": "0.01%",
-    "time": 1656,
-    "timeDay": 1656,
-    "timeWeek": 1656,
-    "timeMonth": 1656,
-    "timeYear": 1656,
+    "time": 1637,
+    "timeDay": 1637,
+    "timeWeek": 1637,
+    "timeMonth": 1637,
+    "timeYear": 1637,
     "dailyMinutesDown": {
-      "2026-02-03": 214
+      "2026-02-03": 218
     }
   },
   {
@@ -61,18 +61,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/pda.szfybjy-gzh.com.ico",
     "slug": "shenfuyou-ips",
     "status": "down",
-    "uptime": "0.23%",
-    "uptimeDay": "0.23%",
-    "uptimeWeek": "0.23%",
-    "uptimeMonth": "0.23%",
-    "uptimeYear": "0.23%",
+    "uptime": "0.22%",
+    "uptimeDay": "0.22%",
+    "uptimeWeek": "0.22%",
+    "uptimeMonth": "0.22%",
+    "uptimeYear": "0.22%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-03": 213
+      "2026-02-03": 218
     }
   },
   {
@@ -92,7 +92,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-03": 212
+      "2026-02-03": 217
     }
   }
 ]
