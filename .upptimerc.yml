@@ -6,18 +6,28 @@ sites:
   - name: www.e-medicine.cn
     url: https://www.e-medicine.cn/
     maxResponseTime: 20000
+    typing: globalping
+    location: China
   - name: dlly.e-medicine.cn
     url: http://dlly.e-medicine.cn/
     maxResponseTime: 20000
+    typing: globalping
+    location: China
   - name: dai-jian
     url: http://113.108.63.190:25565/
     maxResponseTime: 20000
+    typing: globalping
+    location: China
   - name: shenfuyou-IPS
     url: https://pda.szfybjy-gzh.com:8085/
     maxResponseTime: 20000
+    typing: globalping
+    location: China
   - name: shenertong-IPS
     url: http://121.15.136.85:19101/
     maxResponseTime: 20000
+    typing: globalping
+    location: China
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
