@@ -4,35 +4,99 @@
     "url": "https://www.e-medicine.cn/",
     "icon": "https://icons.duckduckgo.com/ip3/www.e-medicine.cn.ico",
     "slug": "",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2536,
-    "timeDay": 2536,
-    "timeWeek": 2536,
-    "timeMonth": 2536,
-    "timeYear": 2536,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "95.63%",
+    "uptimeDay": "95.63%",
+    "uptimeWeek": "95.63%",
+    "uptimeMonth": "95.63%",
+    "uptimeYear": "95.63%",
+    "time": 2108,
+    "timeDay": 2108,
+    "timeWeek": 2108,
+    "timeMonth": 2108,
+    "timeYear": 2108,
+    "dailyMinutesDown": {
+      "2026-02-03": 1
+    }
   },
   {
     "name": "大连六院",
     "url": "http://dlly.e-medicine.cn/",
     "icon": "https://icons.duckduckgo.com/ip3/dlly.e-medicine.cn.ico",
     "slug": "",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2536,
-    "timeDay": 2536,
-    "timeWeek": 2536,
-    "timeMonth": 2536,
-    "timeYear": 2536,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "95.63%",
+    "uptimeDay": "95.63%",
+    "uptimeWeek": "95.63%",
+    "uptimeMonth": "95.63%",
+    "uptimeYear": "95.63%",
+    "time": 2108,
+    "timeDay": 2108,
+    "timeWeek": 2108,
+    "timeMonth": 2108,
+    "timeYear": 2108,
+    "dailyMinutesDown": {
+      "2026-02-03": 1
+    }
+  },
+  {
+    "name": "代煎",
+    "url": "http://113.108.63.190:25565/",
+    "icon": "https://icons.duckduckgo.com/ip3/113.108.63.190.ico",
+    "slug": "",
+    "status": "down",
+    "uptime": "95.50%",
+    "uptimeDay": "95.50%",
+    "uptimeWeek": "95.50%",
+    "uptimeMonth": "95.50%",
+    "uptimeYear": "95.50%",
+    "time": 2108,
+    "timeDay": 2108,
+    "timeWeek": 2108,
+    "timeMonth": 2108,
+    "timeYear": 2108,
+    "dailyMinutesDown": {
+      "2026-02-03": 1
+    }
+  },
+  {
+    "name": "深妇幼IPS",
+    "url": "https://pda.szfybjy-gzh.com:8085/",
+    "icon": "https://icons.duckduckgo.com/ip3/pda.szfybjy-gzh.com.ico",
+    "slug": "ips",
+    "status": "down",
+    "uptime": "46.59%",
+    "uptimeDay": "46.59%",
+    "uptimeWeek": "46.59%",
+    "uptimeMonth": "46.59%",
+    "uptimeYear": "46.59%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2026-02-03": 1
+    }
+  },
+  {
+    "name": "深儿童IPS",
+    "url": "http://121.15.136.85:19101/",
+    "icon": "https://icons.duckduckgo.com/ip3/121.15.136.85.ico",
+    "slug": "ips",
+    "status": "down",
+    "uptime": "46.88%",
+    "uptimeDay": "46.88%",
+    "uptimeWeek": "46.88%",
+    "uptimeMonth": "46.88%",
+    "uptimeYear": "46.88%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2026-02-03": 1
+    }
   }
 ]
