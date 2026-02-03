@@ -40,19 +40,19 @@
     "url": "http://113.108.63.190:25565",
     "icon": "https://icons.duckduckgo.com/ip3/113.108.63.190.ico",
     "slug": "dai-jian",
-    "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
-    "time": 1617,
-    "timeDay": 1617,
-    "timeWeek": 1617,
-    "timeMonth": 1617,
-    "timeYear": 1617,
+    "status": "up",
+    "uptime": "0.21%",
+    "uptimeDay": "0.21%",
+    "uptimeWeek": "0.21%",
+    "uptimeMonth": "0.21%",
+    "uptimeYear": "0.21%",
+    "time": 1982,
+    "timeDay": 1982,
+    "timeWeek": 1982,
+    "timeMonth": 1982,
+    "timeYear": 1982,
     "dailyMinutesDown": {
-      "2026-02-03": 238
+      "2026-02-03": 527
     }
   },
   {
@@ -61,18 +61,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/pda.szfybjy-gzh.com.ico",
     "slug": "shenfuyou-ips",
     "status": "down",
-    "uptime": "0.21%",
-    "uptimeDay": "0.21%",
-    "uptimeWeek": "0.21%",
-    "uptimeMonth": "0.21%",
-    "uptimeYear": "0.21%",
+    "uptime": "0.09%",
+    "uptimeDay": "0.09%",
+    "uptimeWeek": "0.09%",
+    "uptimeMonth": "0.09%",
+    "uptimeYear": "0.09%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-03": 237
+      "2026-02-03": 528
     }
   },
   {
@@ -81,18 +81,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/121.15.136.85.ico",
     "slug": "shenertong-ips",
     "status": "down",
-    "uptime": "0.21%",
-    "uptimeDay": "0.21%",
-    "uptimeWeek": "0.21%",
-    "uptimeMonth": "0.21%",
-    "uptimeYear": "0.21%",
+    "uptime": "0.09%",
+    "uptimeDay": "0.09%",
+    "uptimeWeek": "0.09%",
+    "uptimeMonth": "0.09%",
+    "uptimeYear": "0.09%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-03": 237
+      "2026-02-03": 527
     }
   }
 ]
