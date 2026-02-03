@@ -14,7 +14,10 @@ sites:
     typing: globalping
     location: China
   - name: dai-jian
-    url: http://113.108.63.190:25565/
+    url: http://113.108.63.190
+    port: 25565
+    typing: globalping
+    location:Shenzhen, Guangdong, China
     maxResponseTime: 20000
   - name: shenfuyou-IPS
     url: https://pda.szfybjy-gzh.com:8085/
