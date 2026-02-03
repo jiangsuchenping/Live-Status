@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1180,
-    "timeDay": 1180,
-    "timeWeek": 1180,
-    "timeMonth": 1180,
-    "timeYear": 1180,
+    "time": 705,
+    "timeDay": 705,
+    "timeWeek": 705,
+    "timeMonth": 705,
+    "timeYear": 705,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1437,
-    "timeDay": 1437,
-    "timeWeek": 1437,
-    "timeMonth": 1437,
-    "timeYear": 1437,
+    "time": 1327,
+    "timeDay": 1327,
+    "timeWeek": 1327,
+    "timeMonth": 1327,
+    "timeYear": 1327,
     "dailyMinutesDown": {}
   },
   {
@@ -40,19 +40,19 @@
     "url": "http://113.108.63.190:25565/",
     "icon": "https://icons.duckduckgo.com/ip3/113.108.63.190.ico",
     "slug": "dai-jian",
-    "status": "degraded",
-    "uptime": "0.19%",
-    "uptimeDay": "0.19%",
-    "uptimeWeek": "0.19%",
-    "uptimeMonth": "0.19%",
-    "uptimeYear": "0.19%",
-    "time": 1705,
-    "timeDay": 1705,
-    "timeWeek": 1705,
-    "timeMonth": 1705,
-    "timeYear": 1705,
+    "status": "down",
+    "uptime": "0.18%",
+    "uptimeDay": "0.18%",
+    "uptimeWeek": "0.18%",
+    "uptimeMonth": "0.18%",
+    "uptimeYear": "0.18%",
+    "time": 1677,
+    "timeDay": 1677,
+    "timeWeek": 1677,
+    "timeMonth": 1677,
+    "timeYear": 1677,
     "dailyMinutesDown": {
-      "2026-02-03": 15
+      "2026-02-03": 19
     }
   },
   {
@@ -61,18 +61,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/pda.szfybjy-gzh.com.ico",
     "slug": "shenfuyou-ips",
     "status": "down",
-    "uptime": "3.43%",
-    "uptimeDay": "3.43%",
-    "uptimeWeek": "3.43%",
-    "uptimeMonth": "3.43%",
-    "uptimeYear": "3.43%",
+    "uptime": "2.57%",
+    "uptimeDay": "2.57%",
+    "uptimeWeek": "2.57%",
+    "uptimeMonth": "2.57%",
+    "uptimeYear": "2.57%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-03": 14
+      "2026-02-03": 19
     }
   },
   {
@@ -81,18 +81,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/121.15.136.85.ico",
     "slug": "shenertong-ips",
     "status": "down",
-    "uptime": "3.47%",
-    "uptimeDay": "3.47%",
-    "uptimeWeek": "3.47%",
-    "uptimeMonth": "3.47%",
-    "uptimeYear": "3.47%",
+    "uptime": "2.67%",
+    "uptimeDay": "2.67%",
+    "uptimeWeek": "2.67%",
+    "uptimeMonth": "2.67%",
+    "uptimeYear": "2.67%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-03": 14
+      "2026-02-03": 18
     }
   }
 ]
