@@ -15,16 +15,19 @@ sites:
     location: China
   - name: dai-jian
     url: http://113.108.63.190:25565/
+    port: 25565
     maxResponseTime: 20000
     typing: globalping
     location: Shenzhen+CN
   - name: shenfuyou-IPS
     url: https://pda.szfybjy-gzh.com:8085/
+    port: 8085
     maxResponseTime: 20000
     typing: globalping
     location: Shenzhen+CN
   - name: shenertong-IPS
     url: http://121.15.136.85:19101/
+    port: 19101
     maxResponseTime: 20000
     typing: globalping
     location: Shenzhen+CN
