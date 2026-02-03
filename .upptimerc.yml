@@ -3,15 +3,15 @@ owner: upptime # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
-  - name: 医疗云
+  - name: www.e-medicine.cn
     url: https://www.e-medicine.cn/
-  - name: 大连六院
+  - name: dlly.e-medicine.cn
     url: http://dlly.e-medicine.cn/
-  - name: 代煎
+  - name: dai-jian
     url: http://113.108.63.190:25565/
-  - name: 深妇幼IPS
+  - name: shenfuyou-IPS
     url: https://pda.szfybjy-gzh.com:8085/
-  - name: 深儿童IPS
+  - name: shenertong-IPS
     url: http://121.15.136.85:19101/
 
 status-website:
