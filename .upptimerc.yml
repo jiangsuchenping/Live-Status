@@ -20,7 +20,8 @@ sites:
     location: China
     maxResponseTime: 60000
   - name: shenfuyou-IPS
-    url: https://pda.szfybjy-gzh.com:8085/
+    url: https://pda.szfybjy-gzh.com
+    port: 8085
     maxResponseTime: 60000
     typing: globalping
     location: China
