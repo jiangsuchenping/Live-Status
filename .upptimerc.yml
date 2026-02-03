@@ -14,7 +14,7 @@ sites:
     typing: globalping
     location: China
   - name: dai-jian
-    url: tcp://113.108.63.190:25565
+    url: http://113.108.63.190:25565
     maxResponseTime: 60000
     typing: globalping
     location: China
