@@ -7,7 +7,12 @@ sites:
     url: https://www.e-medicine.cn/
   - name: 大连六院
     url: http://dlly.e-medicine.cn/
-
+  - name: 代煎
+    url: http://113.108.63.190:25565/
+  - name: 深妇幼IPS
+    url: https://pda.szfybjy-gzh.com:8085/
+  - name: 深儿童IPS
+    url: http://121.15.136.85:19101/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
