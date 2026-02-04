@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2014,
-    "timeDay": 2014,
-    "timeWeek": 2014,
-    "timeMonth": 2014,
-    "timeYear": 2014,
+    "time": 2038,
+    "timeDay": 2038,
+    "timeWeek": 2038,
+    "timeMonth": 2038,
+    "timeYear": 2038,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1681,
-    "timeDay": 1681,
-    "timeWeek": 1681,
-    "timeMonth": 1681,
-    "timeYear": 1681,
+    "time": 1696,
+    "timeDay": 1696,
+    "timeWeek": 1696,
+    "timeMonth": 1696,
+    "timeYear": 1696,
     "dailyMinutesDown": {}
   },
   {
@@ -41,16 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/113.108.63.190.ico",
     "slug": "dai-jian",
     "status": "up",
-    "uptime": "8.98%",
-    "uptimeDay": "8.98%",
-    "uptimeWeek": "8.98%",
-    "uptimeMonth": "8.98%",
-    "uptimeYear": "8.98%",
-    "time": 1897,
-    "timeDay": 1897,
-    "timeWeek": 1897,
-    "timeMonth": 1897,
-    "timeYear": 1897,
+    "uptime": "9.63%",
+    "uptimeDay": "9.63%",
+    "uptimeWeek": "9.63%",
+    "uptimeMonth": "9.63%",
+    "uptimeYear": "9.63%",
+    "time": 1849,
+    "timeDay": 1849,
+    "timeWeek": 1849,
+    "timeMonth": 1849,
+    "timeYear": 1849,
     "dailyMinutesDown": {
       "2026-02-04": 108,
       "2026-02-03": 1004
@@ -73,13 +73,13 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-04": 156,
+      "2026-02-04": 165,
       "2026-02-03": 1065
     }
   },
   {
     "name": "shenertong-IPS",
-    "url": "http://121.15.136.85:19101/admin/index.html?v=2024.11.1",
+    "url": "http://121.15.136.85:19101/api/user/getcheckcode?t=0.6435312131902311",
     "icon": "https://icons.duckduckgo.com/ip3/121.15.136.85.ico",
     "slug": "shenertong-ips",
     "status": "down",
@@ -94,7 +94,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-04": 156,
+      "2026-02-04": 165,
       "2026-02-03": 1065
     }
   }
