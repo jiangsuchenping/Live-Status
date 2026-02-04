@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2038,
-    "timeDay": 2038,
-    "timeWeek": 2038,
-    "timeMonth": 2038,
-    "timeYear": 2038,
+    "time": 2044,
+    "timeDay": 2044,
+    "timeWeek": 2044,
+    "timeMonth": 2044,
+    "timeYear": 2044,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1696,
-    "timeDay": 1696,
-    "timeWeek": 1696,
-    "timeMonth": 1696,
-    "timeYear": 1696,
+    "time": 1711,
+    "timeDay": 1711,
+    "timeWeek": 1711,
+    "timeMonth": 1711,
+    "timeYear": 1711,
     "dailyMinutesDown": {}
   },
   {
@@ -41,16 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/113.108.63.190.ico",
     "slug": "dai-jian",
     "status": "up",
-    "uptime": "9.63%",
-    "uptimeDay": "9.63%",
-    "uptimeWeek": "9.63%",
-    "uptimeMonth": "9.63%",
-    "uptimeYear": "9.63%",
-    "time": 1849,
-    "timeDay": 1849,
-    "timeWeek": 1849,
-    "timeMonth": 1849,
-    "timeYear": 1849,
+    "uptime": "9.75%",
+    "uptimeDay": "9.75%",
+    "uptimeWeek": "9.75%",
+    "uptimeMonth": "9.75%",
+    "uptimeYear": "9.75%",
+    "time": 1803,
+    "timeDay": 1803,
+    "timeWeek": 1803,
+    "timeMonth": 1803,
+    "timeYear": 1803,
     "dailyMinutesDown": {
       "2026-02-04": 108,
       "2026-02-03": 1004
@@ -58,7 +58,7 @@
   },
   {
     "name": "shenfuyou-IPS",
-    "url": "https://pda.szfybjy-gzh.com:8085/admin/assets/js/VersionConfig.js?0.25599783352727024",
+    "url": "https://pda.szfybjy-gzh.com:8085/api/user/getcheckcode?t=0.6435312131902311",
     "icon": "https://icons.duckduckgo.com/ip3/pda.szfybjy-gzh.com.ico",
     "slug": "shenfuyou-ips",
     "status": "down",
@@ -73,7 +73,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-04": 165,
+      "2026-02-04": 167,
       "2026-02-03": 1065
     }
   },
@@ -94,7 +94,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-04": 165,
+      "2026-02-04": 167,
       "2026-02-03": 1065
     }
   }
