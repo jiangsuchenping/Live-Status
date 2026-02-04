@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1957,
-    "timeDay": 1957,
-    "timeWeek": 1957,
-    "timeMonth": 1957,
-    "timeYear": 1957,
+    "time": 1982,
+    "timeDay": 1982,
+    "timeWeek": 1982,
+    "timeMonth": 1982,
+    "timeYear": 1982,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1639,
-    "timeDay": 1639,
-    "timeWeek": 1639,
-    "timeMonth": 1639,
-    "timeYear": 1639,
+    "time": 1656,
+    "timeDay": 1656,
+    "timeWeek": 1656,
+    "timeMonth": 1656,
+    "timeYear": 1656,
     "dailyMinutesDown": {}
   },
   {
@@ -41,16 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/113.108.63.190.ico",
     "slug": "dai-jian",
     "status": "up",
-    "uptime": "5.47%",
-    "uptimeDay": "5.47%",
-    "uptimeWeek": "5.47%",
-    "uptimeMonth": "5.47%",
-    "uptimeYear": "5.47%",
-    "time": 2169,
-    "timeDay": 2169,
-    "timeWeek": 2169,
-    "timeMonth": 2169,
-    "timeYear": 2169,
+    "uptime": "6.18%",
+    "uptimeDay": "6.18%",
+    "uptimeWeek": "6.18%",
+    "uptimeMonth": "6.18%",
+    "uptimeYear": "6.18%",
+    "time": 2086,
+    "timeDay": 2086,
+    "timeWeek": 2086,
+    "timeMonth": 2086,
+    "timeYear": 2086,
     "dailyMinutesDown": {
       "2026-02-04": 108,
       "2026-02-03": 1004
@@ -58,7 +58,7 @@
   },
   {
     "name": "shenfuyou-IPS",
-    "url": "https://pda.szfybjy-gzh.com:8085",
+    "url": "https://pda.szfybjy-gzh.com:8085/admin/assets/images/login/bg.png",
     "icon": "https://icons.duckduckgo.com/ip3/pda.szfybjy-gzh.com.ico",
     "slug": "shenfuyou-ips",
     "status": "down",
@@ -73,7 +73,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-04": 111,
+      "2026-02-04": 120,
       "2026-02-03": 1065
     }
   },
@@ -94,7 +94,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-04": 111,
+      "2026-02-04": 120,
       "2026-02-03": 1065
     }
   }
