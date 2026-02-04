@@ -40,18 +40,19 @@
     "url": "http://113.108.63.190:25565",
     "icon": "https://icons.duckduckgo.com/ip3/113.108.63.190.ico",
     "slug": "dai-jian",
-    "status": "up",
-    "uptime": "5.12%",
-    "uptimeDay": "5.12%",
-    "uptimeWeek": "5.12%",
-    "uptimeMonth": "5.12%",
-    "uptimeYear": "5.12%",
-    "time": 2282,
-    "timeDay": 2282,
-    "timeWeek": 2282,
-    "timeMonth": 2282,
-    "timeYear": 2282,
+    "status": "down",
+    "uptime": "5.92%",
+    "uptimeDay": "5.92%",
+    "uptimeWeek": "5.92%",
+    "uptimeMonth": "5.92%",
+    "uptimeYear": "5.92%",
+    "time": 2252,
+    "timeDay": 2252,
+    "timeWeek": 2252,
+    "timeMonth": 2252,
+    "timeYear": 2252,
     "dailyMinutesDown": {
+      "2026-02-04": 1,
       "2026-02-03": 1004
     }
   },
@@ -72,7 +73,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-03": 1057
+      "2026-02-04": 3,
+      "2026-02-03": 1065
     }
   },
   {
@@ -92,7 +94,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-03": 1057
+      "2026-02-04": 3,
+      "2026-02-03": 1065
     }
   }
 ]
