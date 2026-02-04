@@ -19,7 +19,7 @@ sites:
     typing: globalping
     location: China
   - name: shenfuyou-IPS
-    url: https://pda.szfybjy-gzh.com:8085/admin/assets/js/VersionConfig.js?0.25599783352727024
+    url: https://pda.szfybjy-gzh.com:8085/api/user/getcheckcode?t=0.6435312131902311
     maxResponseTime: 60000
     typing: globalping
     location: China
