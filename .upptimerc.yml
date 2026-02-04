@@ -14,7 +14,7 @@ sites:
     typing: globalping
     location: China
   - name: dai-jian
-    url: http://113.108.63.190:25565
+    url: http://113.108.63.190:25565/Scripts/stat-card-height-manager.js
     maxResponseTime: 60000
     typing: globalping
     location: China
