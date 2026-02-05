@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2087,
-    "timeDay": 2260,
+    "timeDay": 2295,
     "timeWeek": 2087,
     "timeMonth": 2087,
     "timeYear": 2087,
@@ -29,7 +29,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1727,
-    "timeDay": 1844,
+    "timeDay": 1887,
     "timeWeek": 1727,
     "timeMonth": 1727,
     "timeYear": 1727,
@@ -41,13 +41,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/113.108.63.190.ico",
     "slug": "dai-jian",
     "status": "up",
-    "uptime": "57.49%",
+    "uptime": "58.10%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "57.49%",
-    "uptimeMonth": "57.49%",
-    "uptimeYear": "57.49%",
+    "uptimeWeek": "58.10%",
+    "uptimeMonth": "58.10%",
+    "uptimeYear": "58.10%",
     "time": 1585,
-    "timeDay": 758,
+    "timeDay": 777,
     "timeWeek": 1585,
     "timeMonth": 1585,
     "timeYear": 1585,
@@ -73,7 +73,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-05": 111,
+      "2026-02-05": 149,
       "2026-02-04": 1440,
       "2026-02-03": 1065
     }
@@ -95,7 +95,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-05": 111,
+      "2026-02-05": 149,
       "2026-02-04": 1440,
       "2026-02-03": 1065
     }
