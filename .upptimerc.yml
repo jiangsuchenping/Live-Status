@@ -21,9 +21,13 @@ sites:
   - name: shenfuyou-IPS
     url: https://pda.szfybjy-gzh.com:8085/admin/config.js?v=20241015
     maxResponseTime: 60000
+    typing: globalping
+    location: China
   - name: shenertong-IPS
     url: http://121.15.136.85:19101/admin/config.js?v=20241015
     maxResponseTime: 60000
+    typing: globalping
+    location: China
 
 
 status-website:
